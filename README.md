@@ -83,6 +83,6 @@ Me chamo Maria Eduarda Angeli, tenho 21 anos. Atualmente, estou cursando Anális
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaangeli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaAngeli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </div>
